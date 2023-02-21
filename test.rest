@@ -1,0 +1,5 @@
+GET http://localhost:3000/blog
+
+###
+
+GET http://localhost/blog?page=1&search=react
